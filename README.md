@@ -1,4 +1,4 @@
-# Aguas Corletti - Servicios rlacionados a el Agua
+# Aguas Corletti - Servicios relacionados al Agua
 
 Este es un sitio web desarrollado en **HTML, CSS y JavaScript** para **Aguas Corletti**, una empresa especializada en perforaciones de pozos de agua, obras y servicios relacionados con el agua.
 
