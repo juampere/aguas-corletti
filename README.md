@@ -16,7 +16,7 @@ Este es un sitio web desarrollado en **HTML, CSS y JavaScript** para **Aguas Cor
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/aguas-corletti.git
+   git clone https://github.com/juampere/aguas-corletti.git
 
 2. **Abrir el archivo principal:**:
     - Navega hasta la carpeta del proyecto.
